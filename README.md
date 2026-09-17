@@ -1,4 +1,3 @@
-[README(3).md](https://github.com/user-attachments/files/32326768/README.3.md)
 # Password Strength Checker 🔐
 
 Password Strength Checker is a simple web application that helps users understand how strong their passwords are and create stronger ones using a built-in password generator.
